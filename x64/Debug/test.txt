@@ -1,0 +1,1 @@
+select b_name,b_bkcaseid,b_state from book where b_author like '%º¯Êý%'

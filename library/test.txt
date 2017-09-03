@@ -1,0 +1,1 @@
+insert into record (re_bookid,re_readerid,re_state) values ('1496417887','10000','0')
